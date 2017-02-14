@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartPath v3</string>
+
+    <string-array name="listOfOptions">
+        <item>Viajar</item>
+        <item>Mis Viajes</item>
+        <item>Mis Rutas</item>
+        <item>Mi Cuenta</item>
+        <item>Ayuda</item>
+    </string-array>
+    <string name="drawer_open">Abrir Navigation Drawer</string>
+    <string name="drawer_close">Cerrar Navigation Drawer</string>
+</resources>
